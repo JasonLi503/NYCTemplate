@@ -1,0 +1,7 @@
+{
+  "name": "nyuad-frontend",
+  "dependencies": {
+    "foundation-sites": "~6.3.1"
+  },
+  "private": true
+}
